@@ -12,6 +12,11 @@ Currently, two official plugins are available:
 npm create vite
 ```
 
+# Install Dependencies
+```
+npm install
+```
+
 # Install Tailwind and Daisy
 ```
 npm install -D tailwindcss postcss autoprefixer
@@ -19,8 +24,17 @@ npx tailwindcss init -p
 npm i -D daisyui@latest
 ```
 
+Source
+- https://tailwindcss.com/docs/installation
+- https://daisyui.com/docs/install/
+
 # Run Dev
 
 ```
 npm run dev
+```
+
+# Build
+```
+npm run build
 ```
